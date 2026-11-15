@@ -4,6 +4,8 @@
 
 This account publishes **free, open tools for Ontario building-code design**: every tool ships with a live web version, a command-line version, and the underlying code tables as machine-readable JSON, so designers — and their AI agents — can use the numbers directly.
 
+**All tools on one page: [https://dust2engineering.github.io/](https://dust2engineering.github.io/)** — the tools hub, one click into every live tool.
+
 ## Free Ontario code tools, by category
 
 ### Fire and life safety
